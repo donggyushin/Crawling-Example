@@ -1,0 +1,9 @@
+{
+  "name": "Crawling-Example",
+  "version": "1.0.0",
+  "description": "Crawling example",
+  "main": "index.js",
+  "repository": "https://github.com/donggyushin/Crawling-Example.git",
+  "author": "rontend",
+  "license": "MIT"
+}
